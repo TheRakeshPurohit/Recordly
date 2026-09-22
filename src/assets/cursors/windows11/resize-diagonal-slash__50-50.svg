@@ -1,9 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
-<g transform="translate(0 32) scale(1 -1)">
-<polygon style="fill:#FFFFFE;stroke:#000001;stroke-miterlimit:10;" points="12.20278,28.03294 9.91508,30.32063 10.37262,30.77818
-	16.77818,30.77818 16.77818,24.37262 16.32063,23.91508 14.03294,26.20278 5.79722,17.96706 8.08492,15.67937 7.62738,15.22183
-	1.22183,15.22183 1.22183,21.62738 1.67937,22.08492 3.96706,19.79722 "/>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" x="0" y="0" version="1.1" viewBox="0 0 32 32" style="enable-background:new 0 0 32 32" xml:space="preserve"><g transform="translate(0 32) scale(1 -1)"><polygon style="fill:#fffffe;stroke:#000001;stroke-miterlimit:10" points="12.203 28.033 9.915 30.321 10.373 30.778 16.778 30.778 16.778 24.373 16.321 23.915 14.033 26.203 5.797 17.967 8.085 15.679 7.627 15.222 1.222 15.222 1.222 21.627 1.679 22.085 3.967 19.797"/></g></svg>
